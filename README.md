@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Obakosu
+- 👋 Hi, I’m Ojonimi Bako Co-Founder of KayaAI
 - 👀 I’m interested in python/ML AI 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on anything LLM for construction 
